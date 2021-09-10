@@ -21,11 +21,10 @@ PM> Install-Package EPPlus -Version 4.5.3.3
 ```
 
 
-
 # Author
 
 Anderson Pereira dos Santos
 
-https://www.linkedin.com/in/andersonpereirasantos
+[Linkedin](https://www.linkedin.com/in/andersonpereirasantos)
 
-https://www.github.com/andersonpereiradossantos
+[Github](https://github.com/andersonpereiradossantos)
