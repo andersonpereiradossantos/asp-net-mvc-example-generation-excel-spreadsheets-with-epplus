@@ -20,6 +20,8 @@ git clone https://github.com/andersonpereiradossantos/asp-net-mvc-example-genera
 PM> Install-Package EPPlus -Version 4.5.3.3
 ```
 
+## License
+This project is shared under the MIT license. This means you can modify and use it however you want, even for comercial use. If you liked it, consider marking a ⭐️.
 
 # Author
 
