@@ -2,13 +2,13 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/andersonpereiradossantos/asp-net-mvc-example-generation-excel-spreadsheets-with-epplus/blob/main/LICENSE) 
 
-# About code
+## About code
 
 Project in ASP.NET MVC with example for generating Excel spreadsheets using the [EPPlus](https://github.com/JanKallman/EPPlus) v.4.5.3.3 library.
 
 ![Presetion](https://github.com/andersonpereiradossantos/assets/blob/main/asp-net-mvc-example-generation-excel-spreadsheets-with-epplus.gif?raw=true)
 
-# How to run the project
+## How to run the project
 
 Prerequisites: .NET Framework 4.6.1 or higher.
 
@@ -23,7 +23,7 @@ PM> Install-Package EPPlus -Version 4.5.3.3
 ## License
 This project is shared under the MIT license. This means you can modify and use it however you want, even for comercial use. If you liked it, consider marking a ⭐️.
 
-# Author
+## Author
 
 Anderson Pereira dos Santos
 
